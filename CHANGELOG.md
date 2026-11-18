@@ -1,0 +1,1 @@
+# Changelog\n\n## 0.1.0\n- Initial CareerMatch MVP.\n- Added CV analysis, explainable job recommendations, API, browser UI and tests.\n
